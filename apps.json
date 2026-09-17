@@ -20,11 +20,6 @@
     "image": "cover.png"
   },
   {
-    "name": "EmulatorJS",
-    "directory": "emu",
-    "image": "cover.png"
-  },
-  {
     "name": "Scratch 1",
     "directory": "scratch1",
     "image": "cover.png"
