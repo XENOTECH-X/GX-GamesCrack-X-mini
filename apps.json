@@ -70,26 +70,6 @@
     "directory": "calc"
   },
   {
-    "name": "Tiktok",
-    "image": "app.png",
-    "directory": "tiktok"
-  },
-  {
-    "name": "Spotify",
-    "image": "app.png",
-    "directory": "spotify"
-  },
-  {
-    "name": "GeForce Now",
-    "image": "app.png",
-    "directory": "gforce"
-  },
-  {
-    "name": "Proxy",
-    "image": "app.png",
-    "directory": "space"
-  },
-  {
     "name": "webretro",
     "image": "app.png",
     "directory": "webretro"
