@@ -385,11 +385,6 @@
     "image": "game.png"
   },
   {
-    "name": "Buckshot Roulette",
-    "directory": "buckshot",
-    "image": "game.png"
-  },
-  {
     "name": "Candy Crush",
     "directory": "candycrush",
     "image": "game.png"
@@ -437,11 +432,6 @@
   {
     "name": "Crossy Road",
     "directory": "crossyroad",
-    "image": "game.png"
-  },
-  {
-    "name": "Cuphead",
-    "directory": "cuphead",
     "image": "game.png"
   },
   {
@@ -622,11 +612,6 @@
   {
     "name": "Granny",
     "directory": "granny",
-    "image": "game.png"
-  },
-  {
-    "name": "GX-Directory",
-    "directory": "GXD",
     "image": "game.png"
   },
   {
