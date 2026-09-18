@@ -2680,6 +2680,11 @@
     "image": "assets/gameLogo.png"
   },
   {
+    "name": "GTA 3",
+    "directory": "gta3",
+    "image": "game.png"
+  },
+  {
     "name": "Hollow Knight Silk Song",
     "directory": "silksong",
     "image": "game.png"
