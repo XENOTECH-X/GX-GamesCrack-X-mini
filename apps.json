@@ -5,6 +5,11 @@
     "image": "cover.png"
   },
   {
+    "name": "Data OS",
+    "directory": "dataos",
+    "image": "cover.png"
+  },
+  {
     "name": "ZIP Unarchiver",
     "directory": "zip",
     "image": "cover.png"
