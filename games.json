@@ -2680,6 +2680,11 @@
     "image": "assets/gameLogo.png"
   },
   {
+    "name": "FNAN",
+    "directory": "fnan",
+    "image": "game.png"
+  },
+  {
     "name": "Void Striker",
     "directory": "voidstrike",
     "image": "game.png"
