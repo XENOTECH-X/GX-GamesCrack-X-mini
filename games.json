@@ -2688,15 +2688,5 @@
     "name": "Void Striker",
     "directory": "voidstrike",
     "image": "game.png"
-  },
-  {
-    "name": "GTA 3",
-    "directory": "gta3",
-    "image": "game.png"
-  },
-  {
-    "name": "Hollow Knight Silk Song",
-    "directory": "silksong",
-    "image": "game.png"
   }
 ]
